@@ -36,3 +36,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## About
+
+The most structured app I've built so far. I'm proud of being able to outsource logic to global typed ts data stores, so I can use them across all the components in the web app. I'm learning a lot and blown away from all that you can achieve from a few simple lines of code with SvelteKit. 
